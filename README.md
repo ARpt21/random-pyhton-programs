@@ -1,2 +1,3 @@
 # random-pyhton-programs
-some dumb programs i created basically for hw purposes
+some dumb programs i created basically 
+
